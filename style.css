@@ -136,12 +136,12 @@
 
   @media (max-width: 576px) {
     .profile-card {
-        width: 300px;
+        width: 310px;
     }
 
     .card-header{
         background: #2c3a47;
-        padding: 50px 20px;
+        padding: 45px 20px;
     }
 
     body{
