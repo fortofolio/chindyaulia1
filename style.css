@@ -30,7 +30,7 @@
   .pic{
     display: inline-block;
     padding: 8px;
-    background: linear-gradient(130deg, violet, blue);
+    background: linear-gradient(130deg, blue, violet);
 /*     background: linear-gradient(130deg, #74b9ff, #e66767); */
     margin: auto;
     border-radius: 50%;
